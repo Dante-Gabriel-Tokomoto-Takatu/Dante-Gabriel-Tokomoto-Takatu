@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dante-Gabriel-Tokomoto-Takatu
-- 👀 I’m interested in ... C and Swift
-- 🌱 I’m currently learning ... C by Fatec Ourinhos and Swift by BackFront+
+- 👀 I’m interested in C and Dart
+- 🌱 I’m currently learning C by Fatec Ourinhos
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
