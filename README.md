@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dante-Gabriel-Tokomoto-Takatu
-- 👀 I’m interested in C and Dart
+- 👀 I’m interested in C, HTML, CSS and Javascript
 - 🌱 I’m currently learning C by Fatec Ourinhos
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
