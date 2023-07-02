@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dante-Gabriel-Tokomoto-Takatu
 - 👀 I’m interested in C, HTML, CSS and Javascript
-- 🌱 I’m student currently learning C at my college Fatec Ourinhos and taking front end online courses
+- 🌱 I’m student currently learning data structure and algorithms with C at my college Fatec Ourinhos and taking front end online courses
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
