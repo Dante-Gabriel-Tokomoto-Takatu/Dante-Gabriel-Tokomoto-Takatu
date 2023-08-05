@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Landing Pages first.
 - 📫 How to reach me ...
 - <a href="https://www.linkedin.com/in/dante-gabriel-tokomoto-takatu-02b3401a0/"> Linkedin</a>
+ <a href="https://leetcode.com/Dante-Gabriel-Tokomoto-Takatu/">LeetCode</a>
 
 
 <!---
