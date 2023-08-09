@@ -3,7 +3,7 @@
 - 🌱 I’m student currently learning data structure and algorithms with C at my college Fatec Ourinhos and learning front end, HTML5, CSS3 and Javascript with online courses
 - 💞️ I’m looking to collaborate on Landing Pages first.
 - 📫 How to reach me ...
-- <a href="https://www.linkedin.com/in/dante-gabriel-tokomoto-takatu-02b3401a0/"> Linkedin</a>
+- <a href="https://www.linkedin.com/in/dante-gabriel-tokomoto-takatu-02b3401a0/"> Linkedin</a><br>
  <a href="https://leetcode.com/Dante-Gabriel-Tokomoto-Takatu/">LeetCode</a>
 
 
