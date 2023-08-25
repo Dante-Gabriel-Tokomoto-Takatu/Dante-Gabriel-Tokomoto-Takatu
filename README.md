@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 👋 Hi, I’m @Dante-Gabriel-Tokomoto-Takatu 
+- 👋 Hi, I’m @Dante-Gabriel-Tokomoto-Takatu  
 - 👀 I’m interested in front end
 - 🌱 I’m Software Engineering Student, currently learning data structure and algorithms with C at my college Fatec Ourinhos and learning front end,
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
