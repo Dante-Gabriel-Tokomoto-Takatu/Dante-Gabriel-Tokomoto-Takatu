@@ -6,9 +6,9 @@
 
 
 - 📫 How to reach me ...<br>
-- <a href="https://www.linkedin.com/in/dante-gabriel-tokomoto-takatu-02b3401a0/"> Linkedin</a><br>
-- <a href="https://leetcode.com/Dante-Gabriel-Tokomoto-Takatu/">LeetCode</a><br>
-- <a href="https://www.kaggle.com/dantetokomoto">Kaggle</a><br>  
+- <a href="https://www.linkedin.com/in/dante-gabriel-tokomoto-takatu-02b3401a0/"> Linkedin</a>    (Social)<br>
+- <a href="https://leetcode.com/Dante-Gabriel-Tokomoto-Takatu/">LeetCode</a>    (Data Structure and Algorithm)<br>
+- <a href="https://www.kaggle.com/dantetokomoto">Kaggle</a>    (Machine Learning)<br>  
 
 
 <!---
