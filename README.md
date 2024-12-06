@@ -1,13 +1,14 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 👋 Hi, I’m @Dante-Gabriel-Tokomoto-Takatu  
-- 👀 I’m interested in Back-End
-- 🌱 I’m Software Engineering Student, currently learning data structure and algorithms with C at my college Fatec Ourinhos and learning Back-End at MSI Soluções as a intern,
+- 👋 Olá, sou @Dante-Gabriel-Tokomoto-Takatu  
+- 👀 Tenho interesse em Flutter.
+- 🌱 Atualmente estou trabalhando principalmente com a migração do Java Android para o Flutter e fazendo personalizações na máquina da Stone aparelho Positivo L400 como de impressão e controle das empresas clientes. Também trabalhei com integração do ERP com sistema e-commerce VTEX da empresa cliente, com criações de telas personalizadas na camada de negócio do ERP com Delphi, criações de API em PHP, criação de tabelas intermediárias, views, triggers e funções em Postgres
 
 
-- 📫 How to reach me ...<br>
+- 📫 Você também pode me encontrar em: <br>
 - <a href="https://www.linkedin.com/in/dante-gabriel-tokomoto-takatu-02b3401a0/"> Linkedin</a>     (Social)<br>
-- <a href="https://leetcode.com/Dante-Gabriel-Tokomoto-Takatu/">LeetCode</a>      (Data Structure and Algorithm)<br>
+- <a href="https://judge.beecrowd.com/pt/profile/719157">Beecrowd</a>      (Estrutura de dados e algoritmos)
+- <a href="https://leetcode.com/Dante-Gabriel-Tokomoto-Takatu/">LeetCode</a>      (Estrutura de dados e algoritmos)<br>
 - <a href="https://www.kaggle.com/dantetokomoto">Kaggle</a>     (Machine Learning)<br>  
 
 
